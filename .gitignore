@@ -1,1 +1,10 @@
-api_key.txt
+*_key.txt
+.venv
+modified_sentences/
+old_without_she_modified_sentences/
+# results/
+old/
+outline_missing_error/
+random_error/
+donknowwhos/
+test.ipynb
